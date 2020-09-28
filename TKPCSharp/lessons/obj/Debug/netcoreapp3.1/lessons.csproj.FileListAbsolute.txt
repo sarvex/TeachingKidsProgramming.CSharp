@@ -1,0 +1,13 @@
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/bin/Debug/netcoreapp3.1/lessons
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/bin/Debug/netcoreapp3.1/lessons.deps.json
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/bin/Debug/netcoreapp3.1/lessons.runtimeconfig.json
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/bin/Debug/netcoreapp3.1/lessons.runtimeconfig.dev.json
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/bin/Debug/netcoreapp3.1/lessons.dll
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/bin/Debug/netcoreapp3.1/lessons.pdb
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/obj/Debug/netcoreapp3.1/lessons.csprojAssemblyReference.cache
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/obj/Debug/netcoreapp3.1/lessons.AssemblyInfoInputs.cache
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/obj/Debug/netcoreapp3.1/lessons.AssemblyInfo.cs
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/obj/Debug/netcoreapp3.1/lessons.csproj.CoreCompileInputs.cache
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/obj/Debug/netcoreapp3.1/lessons.dll
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/obj/Debug/netcoreapp3.1/lessons.pdb
+/root/workspace/TeachingKidsProgramming.CSharp/TKPCSharp/lessons/obj/Debug/netcoreapp3.1/lessons.genruntimeconfig.cache
