@@ -4,9 +4,9 @@ namespace lessons
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello TKP World!");
-        }
+        //static void Main(string[] args)
+        //{
+         //   Console.WriteLine("Hello TKP World!");
+        //}
     }
 }
