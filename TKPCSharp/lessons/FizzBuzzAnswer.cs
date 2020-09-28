@@ -21,7 +21,6 @@ namespace lessons
                     Console.Write("Buzz");
                     insertNewline = true;
                 }
-                
                 if(insertNewline)
                 {
                     Console.Write(Environment.NewLine);
@@ -29,5 +28,4 @@ namespace lessons
             }
         }
   }
-
 }

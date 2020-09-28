@@ -6,7 +6,7 @@ namespace lessons
     {
         //static void Main(string[] args)
         //{
-         //   Console.WriteLine("Hello TKP World!");
+        //   Console.WriteLine("Hello TKP World!");
         //}
     }
 }
