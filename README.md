@@ -15,3 +15,6 @@ TKP C# (CSharp)
 - @inject - services, i.e. 'http client...'
 - @code - C# code
 
+### Curriculum Influences
+- See this gist - https://gist.github.com/lynnlangit/15e12d902ba66654468b
+
